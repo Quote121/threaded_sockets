@@ -11,7 +11,7 @@ std::unique_ptr<NetworkHandler> p_networkHandler;
 
 std::atomic<bool> returnThreads{false};
 
-const std::string hostname = "192.168.1.114";
+const std::string hostname = "31.125.190.62";
 const std::string port = "27011";
 
 // UpdateRate
